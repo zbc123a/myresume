@@ -35,6 +35,7 @@ Stress Across the Contiguous U.S*
 
 GPA: 83.13/100
 Thesis: *Impact Crater Extraction on Mars Digital Elevation Model*
+
 **Advisor: Dr. Cheng Wang**
 
 ## RESEARCH EXPERIENCE
