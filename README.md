@@ -44,7 +44,7 @@ Thesis: *Impact Crater Extraction on Mars Digital Elevation Model*
 | **09/2019 - Present**<br>Graduate Research Assistant<br>School of Natural Resources | Participated in an interdisciplinary project (computer science, sociology,<br>and meteorology) aiming to anticipate social unrest using integrated data<br>mining approaches. |
 | **05/2018 - 08/2019**<br>Graduate Research Assistant<br>National Drought Mitigation Center | Assisted Professor Tsegaye Tadesse with processing spatial data sets and<br>building regression models in several projects including Vegetation<br>Outlook (VegOut), Quick Drought Response Index (QuickDRI), Combined<br>Drought Index (CDI) of Nepal and Pakistan. |
 | **Northwest A&F University**                                 |                                                              |
-| 08/2016 - 05/2017 <br>Internship<br>College of Natural Resources and Environment | Surveyed the sewer network of Institute of Soil and Water Conservation<br> using GPS (Real-Time Kinematic) and Electronic Total Station. Detected<br> land cover and land use changes of several cities in Shaanxi province. |
+| **08/2016 - 05/2017** <br>Internship<br>College of Natural Resources and Environment | Surveyed the sewer network of Institute of Soil and Water Conservation<br> using GPS (Real-Time Kinematic) and Electronic Total Station. Detected<br> land cover and land use changes of several cities in Shaanxi province. |
 
 
 ## TEACHING EXPERIENCE
